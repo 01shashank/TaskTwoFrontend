@@ -1,0 +1,23 @@
+.widget-container {
+  float: left;
+  max-width: 100%;
+  width: 45%;
+  height: 80%;
+  background-color: white;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: peachpuff;
+
+  #header-widget {
+    padding-left: 20px;
+    color: blueviolet;
+  }
+
+  #list-items {
+    height: 75px;
+  }
+
+  #list-item-text {
+    cursor: pointer;
+  }
+}
